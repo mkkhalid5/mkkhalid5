@@ -1,4 +1,12 @@
-## Hi there, I am M.K. Khalid 👋
+## Hi there, I am M.K. Khalid 👋    Web Developer
+
+   🌐I’m currently working on Web Development Projects.      
+   📚I’m currently learning ...                  
+   🤝I’m looking to collaborate on Web Development Projects.     
+   ❓Ask me about Web Development.                    
+   🔍How to reach me: Gmail: mkkhalidmahamud@gmail.com   
+   💻Facourite Work: Coding      
+   🎮Favourite Games: Minecraft.
 
 ## 🌐 Socials:
 [![](https://img.shields.io/badge/discord-a3a0f9?style=for-the-badge&logo=discord)](https://discord.gg/Zq5mVeSjsq) [![](https://img.shields.io/badge/facebook-0023ff?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/1HeQKLaUEF/) [![](https://img.shields.io/badge/gmail-bababa?style=for-the-badge&logo=gmail)](mailto:mkkhalidmahamud@gmail.com) 
