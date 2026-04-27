@@ -1,6 +1,6 @@
 ## Hi there, I am M.K. Khalid 👋    Web Developer
 
-   🌐I’m currently working on Web Development Projects.      
+   🌐I’m currently working an learning Next.js , MongoBD Web Development Projects.      
    📚I’m currently learning ...                  
    🤝I’m looking to collaborate on Web Development Projects.     
    ❓Ask me about Web Development.                    
