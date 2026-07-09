@@ -1,11 +1,11 @@
-## Hi there, I am M.K. Khalid 👋    Web Developer
+## Hi there, I am M.K. Khalid 👋    MERN Stack Web Developer
 
-   🌐I’m currently working an learning Next.js , MongoBD Web Development Projects.      
-   📚I’m currently learning ...                  
-   🤝I’m looking to collaborate on Web Development Projects.     
+   🌐I’m currently working Next.js , MongoBD Web Development Projects.      
+   📚I’m currently learning TypeScript                 
+   🤝I’m looking to collaborate on Full Stack Web Development Projects.     
    ❓Ask me about Web Development.                    
    🔍How to reach me: Gmail: mkkhalidmahamud@gmail.com   
-   💻Facourite Work: Coding      
+   💻Favourite Work: Coding      
    🎮Favourite Games: Minecraft.
 
 ## 🌐 Socials:
