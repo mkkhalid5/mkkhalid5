@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://i.ibb.co/B2Hz9fC0/mkkhalid-banner.png" />
+</p>
+
 <div align="center">
 
 # Hi 👋, I'm M.K. Khalid Mahamud
 
 ### MERN Stack Web Developer
 
-<img src="https://i.ibb.co/B2Hz9fC0/mkkhalid-banner.png" />
+
 
 </div>
 
