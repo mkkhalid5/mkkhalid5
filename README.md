@@ -4,7 +4,7 @@
 
 ### MERN Stack Web Developer
 
-<img src="https://ibb.co/F4kxFhDR" width="100%" />
+<img src="https://ibb.co/F4kxFhDR" />
 
 </div>
 
