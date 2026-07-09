@@ -1,15 +1,129 @@
-## Hi there, I am M.K. Khalid 👋    MERN Stack Web Developer
+<div align="center">
 
-   🌐I’m currently working MERN Stack web development.      
-   📚I’m currently learning TypeScript                 
-   🤝I’m looking to collaborate on Full Stack Web Development Projects.     
-   ❓Ask me about Web Development.                    
-   🔍How to reach me: Gmail: mkkhalidmahamud@gmail.com   
-   💻Favourite Work: Coding      
-   🎮Favourite Games: Minecraft.
+# Hi 👋, I'm M.K. Khalid Mahamud
 
-## 🌐 Socials:
-[![](https://img.shields.io/badge/discord-a3a0f9?style=for-the-badge&logo=discord)](https://discord.gg/Zq5mVeSjsq) [![](https://img.shields.io/badge/facebook-0023ff?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/1HeQKLaUEF/) [![](https://img.shields.io/badge/gmail-bababa?style=for-the-badge&logo=gmail)](mailto:mkkhalidmahamud@gmail.com) 
+### MERN Stack Web Developer
 
-## 💻 Tech Stack:
-![](https://img.shields.io/badge/html-f8a391?style=for-the-badge&logo=html5) ![](https://img.shields.io/badge/css-7070ef?style=for-the-badge&logo=cssdesignawards) ![](https://img.shields.io/badge/tailwind%20css-a1dafd?style=for-the-badge&logo=tailwindcss) ![](https://img.shields.io/badge/javascript-4c4747?style=for-the-badge&logo=javascript) ![](https://img.shields.io/badge/react-cde9f9?style=for-the-badge&logo=react) ![](https://img.shields.io/badge/firebase-ded779?style=for-the-badge&logo=fireship) ![](https://img.shields.io/badge/nextjs-716f6f?style=for-the-badge&logo=nextdotjs) ![](https://img.shields.io/badge/mongodb-93f29b?style=for-the-badge&logo=mongodb) ![](https://img.shields.io/badge/expressjs-828181?style=for-the-badge&logo=express) ![](https://img.shields.io/badge/git-f2a799?style=for-the-badge&logo=git) ![](https://img.shields.io/badge/github-7b7b7b?style=for-the-badge&logo=github) ![](https://img.shields.io/badge/mysql-a2d7f4?style=for-the-badge&logo=mysql)
+<img src="https://ibb.co/F4kxFhDR" width="100%" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a Computer Science and Engineering (CSE) student from Varendra University, Bangladesh. I am passionate about building modern, responsive, and user-friendly web applications using the MERN Stack. I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills.
+
+---
+
+## 📍 Contact Information
+
+📍 **Location:** Rajshahi, Bangladesh
+
+📧 **Email:** mkkhalidmahamud@gmail.com
+
+📞 **Phone:** +8801889-917987
+
+🌐 **Portfolio:** https://mkkhalid.top
+
+---
+
+## 🚀 Current Activities
+
+- 🌱 Currently learning **TypeScript**
+- ⚡ Exploring **Next.js**
+- 💻 Working on a **Full Stack Ticket Booking Platform**
+- 🛒 Building an **Inventory Management System**
+- 📚 Improving Data Structures & Algorithms
+
+---
+
+# 💻 Tech Stack
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/mkkhalid5">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/mkkhalid">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:mkkhalidmahamud@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://facebook.com/mkkhalidmahamud">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mkkhalid5&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkkhalid5&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkkhalid5&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mkkhalid5&theme=algolia&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Khalid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mkkhalid5&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 💡 Fun Fact
+
+> I love coding, solving real-world problems, and playing Minecraft in my free time.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+</div>
