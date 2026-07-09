@@ -1,6 +1,6 @@
 ## Hi there, I am M.K. Khalid 👋    MERN Stack Web Developer
 
-   🌐I’m currently working Next.js , MongoBD Web Development Projects.      
+   🌐I’m currently working MERN Stack web development.      
    📚I’m currently learning TypeScript                 
    🤝I’m looking to collaborate on Full Stack Web Development Projects.     
    ❓Ask me about Web Development.                    
