@@ -4,7 +4,7 @@
 
 ### MERN Stack Web Developer
 
-<img src="https://ibb.co/F4kxFhDR" />
+<img src="https://i.ibb.co/B2Hz9fC0/mkkhalid-banner.png" />
 
 </div>
 
@@ -86,25 +86,23 @@ I am a Computer Science and Engineering (CSE) student from Varendra University, 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mkkhalid5&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkkhalid5&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=mkkhalid5&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkkhalid5&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=mkkhalid5&theme=dark&hide_border=false"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+# Profile Views
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mkkhalid5&theme=algolia&row=1&column=6"/>
+<img src="https://komarev.com/ghpvc/?username=mkkhalid5"/>
 
 </p>
 
@@ -113,6 +111,12 @@ I am a Computer Science and Engineering (CSE) student from Varendra University, 
 # 📈 Contribution Graph
 
 [![Khalid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mkkhalid5&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+# Most Languages Used
+<p>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mkkhalid5&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
 
 ---
 
